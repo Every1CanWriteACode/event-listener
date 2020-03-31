@@ -1,0 +1,8 @@
+.btn{
+    display: inline-block;
+    padding: 40px;
+    margin: 40px;
+    background-color: aquamarine;
+    color: #f56;
+    font-size: 20px;
+}
